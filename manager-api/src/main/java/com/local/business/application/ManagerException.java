@@ -2,7 +2,7 @@ package com.local.business.application;
 
 /**
  * 
- * @author rbeldi
+ * @author <a href="mailto:beldi.rafik.07@gmail.com">Rafik BELDI</a>
  *
  */
 public abstract class ManagerException extends RuntimeException {
